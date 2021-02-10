@@ -1,0 +1,157 @@
+[
+    {
+        "name": "Arctic Dreams",
+        "author": "Barry Lopez",
+        "regions": [
+            "Arctic"
+        ]
+    },
+    {
+        "name": "Stranger in the Forest: On Foot Across Borneo",
+        "author": "Eric Hansen",
+        "regions": [
+            "South-East Asia",
+            "Indonesia"
+        ]
+    },
+    {
+        "name": "Erebus",
+        "author": "Michael Palin",
+        "regions": [
+            "Arctic",
+            "Antartica"
+        ]
+    },
+    {
+        "name": "Adventures of a Young Naturalist: The Zoo Quest Expeditions",
+        "author": "David Attenborough",
+        "regions": [
+            "South America",
+            "South-East Asia",
+            "Indonesia"
+        ]
+    },
+    {
+        "name": "Journeys to the Other Side of the World: further adventures of a young naturalist",
+        "author": "David Attenborough",
+        "regions": [
+            "Madagascar",
+            "Africa",
+            "Pacific",
+            "Australia"
+        ]
+    },
+    {
+        "name": "Days Without End",
+        "author": "Sebastian Barry",
+        "regions": [
+            "North America",
+            "The United States of America"
+        ]
+    },
+    {
+        "name": "Prisoners of Geography",
+        "author": "Tim Marshall",
+        "regions": [
+            "Russia",
+            "China",
+            "The Middle-East",
+            "North America",
+            "Central America",
+            "Africa",
+            "Europe",
+            "Asia",
+            "Japan",
+            "Korea",
+            "Arctic"
+        ]
+    },
+    {
+        "name": "Babylon: Mesopotamia and the Birth of Civilization",
+        "author": "Paul Kriwaczek",
+        "regions": [
+            "The Middle-East",
+            "Mesopotamia"
+        ]
+    },
+    {
+        "name": "Winter in Madrid",
+        "author": "C.J. Sansom",
+        "regions": [
+            "Europe",
+            "Spain"
+        ]
+    },
+    {
+        "name": "What I talk about when I talk about running",
+        "author": "Haruki Murakammi",
+        "regions": [
+            "Asia",
+            "Japan"
+        ]
+    },
+    {
+        "name": "The Wood: The Life & Times of Cockshutt Wood",
+        "author": "John Lewis-Stempel",
+        "regions": [
+            "Europe",
+            "The United Kingdom"
+        ]
+    },
+    {
+        "name": "Pompeii: The Life of a Roman Town",
+        "author": "Mary Beard",
+        "regions": [
+            "Europe",
+            "Italy"
+        ]
+    },
+    {
+        "name": "The Guest Cat",
+        "author": "Takashi Hiraide",
+        "regions": [
+            "Asia",
+            "Japan"
+        ]
+    },
+    {
+        "name": "The Great Empires of Asis",
+        "author": "Jim Masselos",
+        "regions": [
+            "Asia",
+            "India",
+            "China",
+            "Japan",
+            "Mongolia",
+            "Central Asia",
+            "South-East Asia",
+            "Cambodia"
+        ]
+    },
+    {
+        "name": "The Painted Veil",
+        "author": "W. Somserset Maugham",
+        "regions": [
+            "Asia",
+            "China",
+            "Europe",
+            "The United Kingdom"
+        ]
+    },
+    {
+        "name": "Gilgamesh: The New Translation",
+        "author": "Gerald J. Davis",
+        "regions": [
+            "The Middle-East",
+            "Mesopotamia"
+        ]
+    },
+    {
+        "name": "Bury My Heart at Wounded Knee: An Indian History of the American West",
+        "author": "Dee Brown",
+        "regions": [
+            "North America",
+            "The United States of America"
+        ]
+    }
+]
