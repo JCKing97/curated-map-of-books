@@ -2,7 +2,7 @@ import PropTypes from "prop-types";
 
 function Book({name, author, regions = []}) {
     return (
-        <div>
+        <div class="book">
             <h1>{name}</h1>
             Author: {author}<br/>
             Regions: {regions.join(", ")}

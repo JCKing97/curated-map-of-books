@@ -7,8 +7,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        {books.map(b => <Book name={b.name} author={b.author} regions={b.regions} />)}
+        <div class="split left">
+          <h1>Map</h1>
+        </div>
+        <div class="split right">
+          <img src={logo} className="App-logo" alt="logo" />
+          {books.map(b => <Book name={b.name} author={b.author} regions={b.regions} />)}
+        </div>
       </header>
     </div>
   );
